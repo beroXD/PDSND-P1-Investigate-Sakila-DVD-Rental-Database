@@ -11,7 +11,8 @@ In this project, I used SQL to explore a database related to movie rental the Sa
 
 ![alt text](https://github.com/beroXD/PDSND-P1-Investigate-Sakila-DVD-Rental-Database/blob/main/dvd-rental-erd-2.png)
 
-## **Softwares Needed**
+## **What Software Do I Need?**
+To complete this project, the following software requirements apply:
 ### PostgreSQL:
 PostgreSQL is an object-relational database management system. Object-relational databases use a hybrid approach to databases. 
 In object databases, information is stored as objects, much like object-oriented programming.
