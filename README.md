@@ -1,4 +1,5 @@
 # **Investigating Sakila DVD Rental Database Project**
+Udacity Programming for Data Science Nanodegree Program - Project I
 
 ## 12th Oct'20
 
@@ -12,7 +13,6 @@ In this project, I used SQL to explore a database related to movie rental the Sa
 
 ## **Softwares Needed**
 ### PostgreSQL:
-
 PostgreSQL is an object-relational database management system. Object-relational databases use a hybrid approach to databases. 
 In object databases, information is stored as objects, much like object-oriented programming.
 In relational databases, information is stored in tables with relationships between tables defined by primary and foreign keys.
@@ -22,7 +22,6 @@ Importantly, PostgreSQL allows the use of advanced functions (such as Window Fun
 * [Sakila Database](http://www.postgresqltutorial.com/postgresql-sample-database/)
 
 ## **Question Answered and Visualized**
-
 * Question 1:
    - We want to understand more about the movies that families are watching. The following categories are considered family movies: Animation, Children, Classics, Comedy, Family and Music. Create a query that lists each movie, the film category it is classified in, and the number of times it has been rented out.
    
@@ -35,7 +34,7 @@ Importantly, PostgreSQL allows the use of advanced functions (such as Window Fun
 * Question 4:
     - We would like to know who were our top 10 paying customers, how many payments they made on a monthly basis during second quarter of 2007. Can you write a query to capture the customer name, month and year of payment, and total payment amount for each month by these top 10 paying customers?
     
-## **Credits:**
+## **Credits**
 * Derek steer (Udacity mentor - CEO at Mode)
     - [https://www.linkedin.com/in/dereksteer/](https://www.linkedin.com/in/dereksteer/)
 
